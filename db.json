@@ -2,39 +2,39 @@
  "austria_states_covid19": [
   {
     "name": "Burgenland",   
-    "cases": 3
+    "cases": 353
   },
   {
     "name": "Kärnten",  
-   "cases": 1
+   "cases": 362
   },
   {
     "name": "Niederösterreich",  
-   "cases": 50
+   "cases": 1787
   },
   {
     "name": "Oberösterreich",  
-   "cases": 34
+   "cases": 1911
   },
   {
     "name": "Salzburg",  
-   "cases": 2
+   "cases": 1191
   },
   {
     "name": "Steiermark",  
-   "cases": 5
+   "cases": 1221
   },
   {
     "name": "Tirol",  
-   "cases": 9
+   "cases": 1770
   },
   {
     "name": "Vorarlberg",  
-   "cases": 13
+   "cases": 849
   },
   {
     "name": "Wien",  
-   "cases": 294
+   "cases": 5686
   }
  ]
 }
